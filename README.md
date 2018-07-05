@@ -3,5 +3,5 @@
 * $ mkdir -p nodejs-websocket-example
 * $ npm init
 * $ npm install websocket --save
-* $ node index.js  // server
-* $ node client.js  // client
+* $ node server.js
+* $ node client.js
