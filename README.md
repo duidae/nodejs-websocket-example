@@ -1,5 +1,5 @@
 # nodejs-websocket-example
-
+websocket @ npm: https://www.npmjs.com/package/websocket
 * $ mkdir -p nodejs-websocket-example
 * $ npm init
 * $ npm install websocket --save
